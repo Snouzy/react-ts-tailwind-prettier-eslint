@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "🤜Le projet se développe encore un peu plus grâce à ce commit ! Keep going !🚀🤛"
